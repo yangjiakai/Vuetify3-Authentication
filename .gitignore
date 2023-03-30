@@ -1,0 +1,15 @@
+# Logs
+*.log
+yarn*
+*.ts
+*.local
+
+
+node_modules
+dist
+.firebase
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
